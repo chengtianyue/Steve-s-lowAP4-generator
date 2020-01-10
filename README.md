@@ -1,5 +1,5 @@
 # Steve's-lowAP4-generator
-A revision of the repository JIUYANGZH / BullshitGenerator-English and menzi11 / BullshitGenerator
+A revision of the repository menzi11 / BullshitGenerator(data and code are partially copied)
 
 ## The project now can only generate persuasive essay (synthesis and RA are on the way).
 
